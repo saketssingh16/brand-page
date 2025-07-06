@@ -9,7 +9,7 @@ function App() {
       <Navigation></Navigation>
       <Herosection></Herosection>
     </div>
-  )
-}
+  );
+};
 
 export default App
